@@ -1,1 +1,15 @@
+.navbar {
+  position: fixed;
+  top: 0;
+  width: 100px;
+}
 
+.navbar li {
+  display: inline-block;
+  padding: 0 20px;
+}
+
+.navbar {
+  text-decoration: none;
+  color: black;
+}
